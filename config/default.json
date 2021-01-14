@@ -1,0 +1,6 @@
+{
+	"mongoURI":"mongodb+srv://souparno123:souparno123@devconnector.jwhw6.mongodb.net/souparno?retryWrites=true&w=majority",
+	"jwtSecret":"mysecret",
+	"githubClientID":"bfba7433fdca70d4459b",
+	"githubSecret":"bb11c15dd814e5d51989bf71752df56102cdd336"
+}
